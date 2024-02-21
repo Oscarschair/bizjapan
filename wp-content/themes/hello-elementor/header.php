@@ -18,7 +18,7 @@ $skip_link_url = apply_filters( 'hello_elementor_skip_link_url', '#content' );
 <!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
-	<meta charset="<?php bloginfo( 'charset' ); ?>">
+	<meta charset="<?php bloginfo( 'charset' ); ?>">TEST
 	<meta name="viewport" content="<?php echo esc_attr( $viewport_content ); ?>">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<!-- Google Tag Manager -->
